@@ -1,9 +1,9 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My New Hugo Site</title><link>http://example.org/</link><description>Recent content on My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 10 Dec 2020 17:38:53 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World</title><link>http://example.org/post/hello-world/</link><pubDate>Thu, 10 Dec 2020 17:38:53 +0800</pubDate><guid>http://example.org/post/hello-world/</guid><description>My New Hugo Site http://example.org/post/hello-world/ -&lt;p>hello world&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Skyscraper</title><link>https://qmdx00.github.io/</link><description>Recent content on Skyscraper</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Thu, 10 Dec 2020 17:38:53 +0800</lastBuildDate><atom:link href="https://qmdx00.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World</title><link>https://qmdx00.github.io/post/hello-world/</link><pubDate>Thu, 10 Dec 2020 17:38:53 +0800</pubDate><guid>https://qmdx00.github.io/post/hello-world/</guid><description>Skyscraper https://qmdx00.github.io/post/hello-world/ -&lt;p>hello world&lt;/p>
 &lt;!-- raw HTML omitted -->
 &lt;p>something for nothing
 just do it&lt;/p>
 &lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-go" data-lang="go">&lt;span style="color:#a6e22e">fmt&lt;/span>.&lt;span style="color:#a6e22e">Println&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;hello world&amp;#34;&lt;/span>)
-&lt;/code>&lt;/pre>&lt;/div>- http://example.org/post/hello-world/ -</description></item><item><title>Git Questions And Answers</title><link>http://example.org/post/git-question-answer/</link><pubDate>Sat, 12 Sep 2020 12:00:19 +0800</pubDate><guid>http://example.org/post/git-question-answer/</guid><description>My New Hugo Site http://example.org/post/git-question-answer/ -&lt;blockquote>
+&lt;/code>&lt;/pre>&lt;/div>- https://qmdx00.github.io/post/hello-world/ -</description></item><item><title>Git Questions And Answers</title><link>https://qmdx00.github.io/post/git-question-answer/</link><pubDate>Sat, 12 Sep 2020 12:00:19 +0800</pubDate><guid>https://qmdx00.github.io/post/git-question-answer/</guid><description>Skyscraper https://qmdx00.github.io/post/git-question-answer/ -&lt;blockquote>
 &lt;p>Git是一个开源的分布式版本控制系统，可以有效、高速地处理从很小到非常大的项目版本管理。Git 是 Linus Torvalds 为了帮助管理 Linux 内核开发而开发的一个开放源码的版本控制软件。
 分布式相比于集中式的最大区别在于开发者可以提交到本地，每个开发者通过克隆操作，在本地机器上拷贝一个完整的Git仓库。&lt;/p>
 &lt;/blockquote>
@@ -27,4 +27,4 @@ just do it&lt;/p>
 &lt;li>&lt;a href="https://git-scm.com/docs">Git Document&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.liaoxuefeng.com/wiki/896043488029600">廖雪峰Git教程&lt;/a>&lt;/li>
 &lt;/ul>
-- http://example.org/post/git-question-answer/ -</description></item></channel></rss>
+- https://qmdx00.github.io/post/git-question-answer/ -</description></item></channel></rss>
