@@ -3,4 +3,28 @@
 &lt;p>something for nothing
 just do it&lt;/p>
 &lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-go" data-lang="go">&lt;span style="color:#a6e22e">fmt&lt;/span>.&lt;span style="color:#a6e22e">Println&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;hello world&amp;#34;&lt;/span>)
-&lt;/code>&lt;/pre>&lt;/div>- http://example.org/post/hello-world/ -</description></item></channel></rss>
+&lt;/code>&lt;/pre>&lt;/div>- http://example.org/post/hello-world/ -</description></item><item><title>Git Questions And Answers</title><link>http://example.org/post/git-question-answer/</link><pubDate>Sat, 12 Sep 2020 12:00:19 +0800</pubDate><guid>http://example.org/post/git-question-answer/</guid><description>My New Hugo Site http://example.org/post/git-question-answer/ -&lt;blockquote>
+&lt;p>Git是一个开源的分布式版本控制系统，可以有效、高速地处理从很小到非常大的项目版本管理。Git 是 Linus Torvalds 为了帮助管理 Linux 内核开发而开发的一个开放源码的版本控制软件。
+分布式相比于集中式的最大区别在于开发者可以提交到本地，每个开发者通过克隆操作，在本地机器上拷贝一个完整的Git仓库。&lt;/p>
+&lt;/blockquote>
+&lt;h4 id="git-常见问题-qa">Git 常见问题 Q&amp;amp;A&lt;/h4>
+&lt;h5 id="-git-log-和-git-reflog的区别-">💡 &lt;em>&lt;strong>&lt;code>git log&lt;/code> 和 &lt;code>git reflog&lt;/code>的区别 ？&lt;/strong>&lt;/em>&lt;/h5>
+&lt;blockquote>
+&lt;p>&lt;code>git log&lt;/code> 命令显示从最近到最远的提交日志，&lt;code>git reflog&lt;/code>命令显示所有的历史操作，包括 &lt;code>git reset&lt;/code> 命令中被删除的 commit 记录。&lt;/p>
+&lt;/blockquote>
+&lt;h5 id="-git-merge-和-git-rebase-的区别-">💡 &lt;em>&lt;strong>&lt;code>git merge&lt;/code> 和 &lt;code>git rebase&lt;/code> 的区别 ？&lt;/strong>&lt;/em>&lt;/h5>
+&lt;blockquote>
+&lt;p>&lt;code>git merge&lt;/code> 合并两个分支，并生成一个新的节点，而 &lt;code>git rebase&lt;/code> 则不会生成新的节点，而是将两个分支融合成一个线性的提交。&lt;/p>
+&lt;/blockquote>
+&lt;h5 id="-git-reset-head-和-git-reset---hard-head-的区别-">💡 &lt;em>&lt;strong>&lt;code>git reset HEAD^&lt;/code> 和 &lt;code>git reset --hard HEAD^&lt;/code> 的区别 ？&lt;/strong>&lt;/em>&lt;/h5>
+&lt;blockquote>
+&lt;p>都是用来撤销操作的，前者只撤销 commit 不会删除已经修改了的内容，后者撤销 commit 并且将文件内容恢复为上次 commit 时的内容。&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;em>&lt;strong>To be continue &amp;hellip;&lt;/strong>&lt;/em>&lt;/p>
+&lt;h4 id="参考引用">参考引用&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a href="https://learngitbranching.js.org/">Learn Git Branching&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://git-scm.com/docs">Git Document&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.liaoxuefeng.com/wiki/896043488029600">廖雪峰Git教程&lt;/a>&lt;/li>
+&lt;/ul>
+- http://example.org/post/git-question-answer/ -</description></item></channel></rss>
